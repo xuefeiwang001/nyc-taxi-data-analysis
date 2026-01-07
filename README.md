@@ -12,7 +12,7 @@ Rather than focusing solely on modeling techniques, the project emphasizes:
 
 📄 **Final Deliverable:**  
 - **Key Insights & Business Recommendations**  
-  → `06_nyc_taxi_insights_and_recommendations.md`
+  → `05_nyc_taxi_insights_and_recommendations.md`
 
 ---
 
